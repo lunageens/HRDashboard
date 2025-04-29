@@ -6,3 +6,6 @@ Lastly, I write a Python file with the code for the dashboard and download it to
 **Requirements**: Wrote this in Notepad and added to Github repo. 
 
 Lastly, I connect Github repo to Streamlit Cloud Community to host dashboard locally. 
+
+![image](https://github.com/user-attachments/assets/4d17226a-149d-4d3e-bab9-bd1da049a504)
+
