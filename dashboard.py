@@ -1,4 +1,3 @@
-
 import pandas as pd
 import streamlit as st
 import plotly.express as px
@@ -10,6 +9,7 @@ def format_field_name(field):
 def load_data():
   # Load your data
   df = pd.read_csv("jobs_final.csv")
+  # Get predictions out by seperating different hierarchy levels and giving them ready to read names.
   df["Predicted domain"] = df["Predicted Class"].apply(lambda x: format_field_name(x.split("/")[0]))
   df["Predicted field"] = df["Predicted Class"].apply(lambda x: format_field_name(x.split("/")[1]))
   df["Predicted title"] = df["Predicted Class"].apply(lambda x: format_field_name(x.split("/")[2]))
@@ -23,14 +23,15 @@ def compute_comparison(df, company):
 
 def main():
     st.title("Big 4 Benchmark")
+    # here there needs to be text
     df = load_data()
     firm = st.sidebar.selectbox("Select firm", df['Company'].unique())
-    comp = compute_comparison(df, firm)
-    st.dataframe(comp)
-    fig = px.bar(comp.reset_index().melt(id_vars='index'),
+    # comp = compute_comparison(df, firm)
+    # st.dataframe(comp)
+    # fig = px.bar(comp.reset_index().melt(id_vars='index'),
                  x='variable', y='value', color='index',
                  barmode='group')
-    st.plotly_chart(fig, use_container_width=True)
+    # st.plotly_chart(fig, use_container_width=True)
 
 if __name__=='__main__':
     main()
