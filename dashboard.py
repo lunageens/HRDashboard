@@ -28,9 +28,7 @@ def main():
     firm = st.sidebar.selectbox("Select firm", df['Company'].unique())
     # comp = compute_comparison(df, firm)
     # st.dataframe(comp)
-    # fig = px.bar(comp.reset_index().melt(id_vars='index'),
-                 x='variable', y='value', color='index',
-                 barmode='group')
+    # fig = px.bar(comp.reset_index().melt(id_vars='index'), x='variable', y='value', color='index', barmode='group')
     # st.plotly_chart(fig, use_container_width=True)
 
 if __name__=='__main__':
