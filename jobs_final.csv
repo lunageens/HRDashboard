@@ -1,0 +1,470 @@
+Company,Job Function,Job Description,Location,Predicted Class
+Deloitte,.Net Developer,Technology - Industry Agnostic,Zaventem,engineering/it_telecoms/developer/web_developer/dot_net_developer/net_architect
+Deloitte,(Jr.) Management Assistant,Business Support - Industry Agnostic,Zaventem,other/strategy_consultancy/business_advisor
+Deloitte,(Junior) Legal consultant business/commercial law,Legal Services - Industry Agnostic,Ghent,other/legal/general_legal_counsel
+Deloitte,(Senior) Consultant - Consolidation (SAP Group Reporting),Finance & Risk - Industry Agnostic,Zaventem,finance/financial_services/financial_services_consultant
+Deloitte,(Senior) Consultant - EPM - Anaplan Operate,Finance & Risk - Industry Agnostic,Zaventem,finance/financial_services/financial_services_consultant
+Deloitte,(Senior) Consultant - EPM - SAC,Technology - Industry Agnostic,Zaventem,finance/banking/banking_analyst
+Deloitte,(Senior) Consultant - EPM Anaplan,Finance & Risk - Industry Agnostic,Zaventem,finance/financial_services/financial_services_consultant
+Deloitte,(Senior) Consultant Logistics Technology,Technology - Industry Agnostic,Zaventem,supply_chain/transport_logistics/transport_logistics_team_leader
+Deloitte,(Senior) Consultant M&A Transactions Services,Finance & Risk - Industry Agnostic,Zaventem,finance/financial_services/financial_services_consultant
+Deloitte,(Senior) Manager M&A Transactions Services – Real Estate,Finance & Risk - Financial Services,Zaventem,other/real_estate/realtor
+Deloitte,(Senior) Manager Transfer Pricing,Tax - Industry Agnostic,Zaventem,finance/accounting/pricing_analyst
+Deloitte,(Senior) Specialist - EPM SAC,Technology - Industry Agnostic,Zaventem,other/legal/senior_contract_specialist
+Deloitte,(Sr) Consultant Supply Chain Strategy,Consulting & Strategy - Industry Agnostic,Zaventem,other/strategy_consultancy/strategy_consultant
+Deloitte,Accountancy Advisor - Région Charleroi,"Audit, Accounting & Controlling - Deloitte Private",Charleroi,finance/accounting/auditor
+Deloitte,"Accountancy advisor regio Antwerpen, Hasselt en Leuven","Audit, Accounting & Controlling - Deloitte Private",Leuven,finance/accounting/auditor
+Deloitte,"Accountancy advisor regio Oostkamp, Kortrijk en Gent","Audit, Accounting & Controlling - Deloitte Private",Ghent,finance/accounting/auditor
+Deloitte,"Accountancy expert regio Oostkamp, Kortrijk en Gent","Audit, Accounting & Controlling - Deloitte Private",Ghent,finance/accounting/auditor
+Deloitte,Administration Officer,Business Support - Industry Agnostic,Zaventem,other/administration/administrator
+Deloitte,AI- Anaplan Consultant,Technology - Industry Agnostic,Zaventem,other/healthcare/public_health_practitioner
+Deloitte,AppSec DevSecOps Consultant,Technology - Industry Agnostic,Zaventem,other/it_telecoms/it_telecoms_consultant
+Deloitte,Audit Manager Financial Institutions,"Audit, Accounting & Controlling - Industry Agnostic",Zaventem,finance/accounting/auditor
+Deloitte,Boomi Integration,Technology - Industry Agnostic,Zaventem,other/insurance/insurance_manager
+Deloitte,Business Resilience Consultant,Finance & Risk - Industry Agnostic,Zaventem,finance/financial_services/financial_services_consultant
+Deloitte,Business/Financial Controlling Consultant (Outsourcing),"Audit, Accounting & Controlling - Industry Agnostic",Zaventem,finance/financial_services/financial_services_consultant
+Deloitte,Campus Recruiter,HR - Industry Agnostic,Zaventem,other/recruitment/recruitment_consultant
+Deloitte,Cloud Engineer / Cloud Architect,Technology - Industry Agnostic,Zaventem,other/construction/architecture/architect
+Deloitte,Cloud Security Lead,Technology - Industry Agnostic,Zaventem,other/it_telecoms/technology_lead
+Deloitte,Cloud Solution Architect,Technology - Industry Agnostic,Zaventem,other/it_telecoms/technical_architect
+Deloitte,Cloud Strategy & Architecture,Technology - Industry Agnostic,Zaventem,sales/sales/solution_architecture
+Deloitte,Compensation and Benefits Consultant - HR & Outsourcing,HR - Industry Agnostic,Zaventem,other/human_resources/human_resources_consultant
+Deloitte,Consultant - Enterprise Performance Management - EU,Finance & Risk - Government & Public Services,Zaventem,finance/financial_services/financial_services_consultant
+Deloitte,Consultant Belgian Personal Income Tax Compliance,Tax - Industry Agnostic,Zaventem,finance/financial_services/financial_services_compliance_specialist
+Deloitte,Consultant Business Tax,Tax - Industry Agnostic,Zaventem,finance/accounting/tax_accountant
+Deloitte,Consultant Consolidation,Finance & Risk - Industry Agnostic,Zaventem,finance/financial_services/financial_services_consultant
+Deloitte,Consultant Corporate Tax - Ghent,Tax - Industry Agnostic,Ghent,finance/accounting/tax_accountant
+Deloitte,Consultant Debt & Capital Advisory,Finance & Risk - Industry Agnostic,Zaventem,finance/financial_services/financial_services_consultant
+Deloitte,"Consultant Employment Advisory - Regio Antwerpen, Hasselt of Leuven",Legal Services - Deloitte Private,Antwerp,other/legal/attorney/employment-and-labor
+Deloitte,Consultant Global Trade Advisory,Tax - Industry Agnostic,Zaventem,finance/accounting/tax_accountant
+Deloitte,Consultant Health Economics and Market Access,Consulting & Strategy - Life Sciences & Healthcare,Zaventem,other/healthcare/health_medicine_consultant
+Deloitte,Consultant Immigration And Social Security,Tax - Industry Agnostic,Zaventem,finance/accounting/tax_accountant
+Deloitte,Consultant Indirect Tax,Tax - Industry Agnostic,Zaventem,finance/accounting/tax_accountant
+Deloitte,Consultant Indirect Tax Operations,Tax - Industry Agnostic,Zaventem,finance/accounting/tax_accountant
+Deloitte,"Consultant M&A & Finance Regio Leuven, Hasselt En Antwerpen",Finance & Risk - Deloitte Private,Antwerp,finance/financial_services/financial_services_consultant
+Deloitte,Consultant M&A and Finance - Région Charleroi,Finance & Risk - Deloitte Private,Charleroi,finance/financial_services/financial_services_consultant
+Deloitte,Consultant O2C Intelligent Automation,Technology - Industry Agnostic,Zaventem,other/manufacturing/automation_operator
+Deloitte,Consultant Recovery and Resolution Planning,Finance & Risk - Financial Services,Zaventem,finance/financial_services/financial_services_consultant
+Deloitte,Consultant Treasury Systems,Finance & Risk - Industry Agnostic,Zaventem,finance/financial_services/financial_services_consultant
+Deloitte,Contracts Counsel,Legal Services - Industry Agnostic,Zaventem,other/legal/in_house/general_counsel
+Deloitte,Control Transformation Consultant - Public Sector,Consulting & Strategy - Government & Public Services,Zaventem,other/legal/government_legal_counsel
+Deloitte,Corporate Tax Manager,Tax - Industry Agnostic,Zaventem,finance/accounting/tax_accountant
+Deloitte,Credit Controller/ Cash Collection Consultant (Outsourcing),"Audit, Accounting & Controlling - Industry Agnostic",Zaventem,finance/financial_services/debt_collector
+Deloitte,Cyber Defense Analyst / SecOps,Technology - Industry Agnostic,Zaventem,other/it_telecoms/analysis/functional_analyst
+Deloitte,Cyber Risk Advisor,Technology - Industry Agnostic,Zaventem,other/insurance/credit_risk_specialist
+Deloitte,Cyber Security Strategy Consultant,Technology - Industry Agnostic,Zaventem,other/strategy_consultancy/strategy_consultant
+Deloitte,Data & Analytics - Starting in September 2025, - ,Zaventem,other/management/managing_director
+Deloitte,Data Migration (Senior) Manager,Technology - Industry Agnostic,Zaventem,other/strategy_consultancy/economist
+Deloitte,Data Science Software Engineer,Technology - Industry Agnostic,Zaventem,engineering/it_telecoms/software_engineer
+Deloitte,Data Scientist Energy and Utilities,"Technology - Energy, Resources & Industrial",Zaventem,other/science/scientist
+Deloitte,Decision Intelligence Solution Architect,Consulting & Strategy - Industry Agnostic,Zaventem,other/it_telecoms/technical_architect
+Deloitte,Digital identity (junior) architect (IAM),Technology - Industry Agnostic,Zaventem,other/construction/architecture/architect
+Deloitte,Digital Tax Transformation Consultant,Tax - Financial Services,Zaventem,finance/financial_services/financial_services_consultant
+Deloitte,Director Organization Transformation - Human Capital,HR - Industry Agnostic,Zaventem,other/management/director
+Deloitte,Director Real Estate Debt & Capital Advisory,Finance & Risk - Financial Services,Zaventem,other/management/director
+Deloitte,Engineering & Technology - Starting in September 2025, - ,Zaventem,engineering/engineering/research_development_engineer
+Deloitte,Experienced Indirect Tax Professional,Tax - Industry Agnostic,Antwerp,finance/accounting/tax_accountant
+Deloitte,Experienced Professional Forensic Investigations,Finance & Risk - Industry Agnostic,Zaventem,other/science/forensic_scientist
+Deloitte,Experienced Professional in Financial Instruments & Financial Matters,Finance & Risk - Financial Services,Zaventem,finance/financial_services/financial_services_representative
+Deloitte,Experienced Recruiter,HR - Industry Agnostic,Zaventem,other/recruitment/recruitment_consultant
+Deloitte,Finance - Starting in September 2025, - ,Zaventem,finance/accounting/corporate_finance_accountant
+Deloitte,Finance And Accounting (Outsourcing) Professional,"Audit, Accounting & Controlling - Industry Agnostic",Zaventem,finance/accounting/auditor
+Deloitte,Finance And Accounting (Outsourcing) Professional - Regio Oost/West-Vlaanderen,"Audit, Accounting & Controlling - Industry Agnostic",Zaventem,finance/accounting/auditor
+Deloitte,Finance And Accounting (Outsourcing) Professional - Region North East,"Audit, Accounting & Controlling - Industry Agnostic",Zaventem,finance/accounting/auditor
+Deloitte,"Finance consultant vastgoed regio Oostkamp, Kortrijk en Gent",Finance & Risk - Deloitte Private,Ghent,finance/financial_services/financial_services_consultant
+Deloitte,Financial Consultant Banking And Insurance Industry,"Audit, Accounting & Controlling - Financial Services",Zaventem,finance/financial_services/financial_services_consultant
+Deloitte,Financial Reporting & Accounting Advisory Senior,"Audit, Accounting & Controlling - Government & Public Services",Zaventem,finance/accounting/auditor
+Deloitte,General Supply Chain (Sr) manager,Consulting & Strategy - Industry Agnostic,Liège,other/buying_purchashing/buying_purchashing
+Deloitte,Global Mobility Advisor,Tax - Industry Agnostic,Zaventem,finance/accounting/tax_accountant
+Deloitte,Global Mobility Technology Implementation Manager,Tax - Industry Agnostic,Zaventem,other/human_resources/implementation-specialist
+Deloitte,Government & Public Sector Audit Manager,"Audit, Accounting & Controlling - Industry Agnostic",Zaventem,finance/accounting/auditor
+Deloitte,HR Officer - HR & Outsourcing,HR - Industry Agnostic,Zaventem,other/human_resources/human_resources_officer
+Deloitte,HR Professional Public Sector - HR & Outsourcing,HR - Government & Public Services,Zaventem,other/legal/government_legal_counsel
+Deloitte,HR SPECIALIST – PAYROLL SENIOR CONSULTANT,"Audit, Accounting & Controlling - Industry Agnostic",Charleroi,finance/accounting/auditor
+Deloitte,HR Transformation Manager,HR - Industry Agnostic,Zaventem,other/human_resources/human_resources_manager
+Deloitte,Human Resources - Starting in September 2025, - ,Zaventem,other/human_resources/human_resources_officer
+Deloitte,Indirect Tax & E-Invoicing Consultant,Tax - Industry Agnostic,Antwerp,finance/accounting/tax_accountant
+Deloitte,"Indirect Tax Manager Antwerpen, Hasselt of Leuven",Tax - Deloitte Private,Antwerp,finance/accounting/tax_accountant
+Deloitte,Integration Architect,Technology - Industry Agnostic,Zaventem,other/construction/architecture/architect
+Deloitte,Integrity and Ethics Regulatory Compliance Specialist,Finance & Risk - Industry Agnostic,Zaventem,finance/financial_services/financial_services_compliance_specialist
+Deloitte,Internship Data & Analytics - Academic Year 2025-2026, - ,Zaventem,other/administration/personal_assistant
+Deloitte,Internship Engineering & Technology - Academic Year 2025-2026, - ,Zaventem,engineering/engineering/civil_engineering/civil_engineering_technician
+Deloitte,Internship Finance - Academic Year 2025-2026, - ,Zaventem,finance/accounting/finance_assistant
+Deloitte,Internship Human Resources - Academic Year 2025-2026, - ,Zaventem,other/human_resources/human_resources_officer
+Deloitte,Internship IT - Academic Year 2025-2026, - ,Zaventem,other/management/managing_director
+Deloitte,Internship Legal services - Academic Year 2025-2026, - ,Zaventem,other/legal/general_legal_counsel
+Deloitte,Internship Marketing & E-commerce - Academic Year 2025-2026, - ,Zaventem,other/Marketing/marketing_assistant
+Deloitte,Internship Office Management - Academic Year 2024-2025, - ,Zaventem,other/administration/office_jobs/office_assistant
+Deloitte,Internship Strategy - Academic Year 2025-2026, - ,Zaventem,finance/transport_logistics/traffic_controller
+Deloitte,Internship Supply Chain - Academic Year 2025-2026, - ,Zaventem,other/buying_purchashing/buying_purchashing
+Deloitte,Internship Tax - Academic Year 2025-2026, - ,Zaventem,finance/accounting/tax_accountant
+Deloitte,IT - Starting in September 2025, - ,Zaventem,other/it_telecoms/it-specialist
+Deloitte,IT Application Compliance and Methodology Manager,Technology - Industry Agnostic,Zaventem,other/insurance/compliance_regulatory/compliance_manager
+Deloitte,IT Asset Management Lead,Technology - Industry Agnostic,Zaventem,finance/banking/asset_manager
+Deloitte,Junior Ethics Officer,Consulting & Strategy - Industry Agnostic,Zaventem,finance/accounting/accounting_trainee
+Deloitte,Lead Data Engineer,Technology - Industry Agnostic,Zaventem,engineering/it_telecoms/software_engineer
+Deloitte,Legal Leader – Technology & Innovation,"Legal Services - Technology, Media & Telecoms",Ghent,other/legal/legal_executive
+Deloitte,Legal services - Starting in September 2025, - ,Zaventem,other/legal/general_legal_counsel
+Deloitte,Management Assistant,Business Support - Industry Agnostic,Zaventem,other/strategy_consultancy/business_advisor
+Deloitte,Manager - Enterprise Performance Management - Public Sector,Finance & Risk - Government & Public Services,Zaventem,other/legal/government_legal_counsel
+Deloitte,Manager - EPM FSI,Finance & Risk - Financial Services,Zaventem,finance/financial_services/financial_services_compliance_specialist
+Deloitte,Manager - ERP Enabled Transformation - FSI,Finance & Risk - Financial Services,Zaventem,other/it_telecoms/erp_specialist
+Deloitte,Manager - Technology Strategy & Transformation,Technology - Industry Agnostic,Zaventem,other/construction/planning_manager
+Deloitte,Manager – Financial Sale & Purchase Agreement Advice (M&A Transaction Services),Finance & Risk - Industry Agnostic,Zaventem,finance/financial_services/investments_associate
+Deloitte,Manager Accounting & Reporting Assurance,"Audit, Accounting & Controlling - Financial Services",Zaventem,finance/accounting/auditor
+Deloitte,Manager Asset Management and Analytics,"Technology - Energy, Resources & Industrial",Zaventem,finance/banking/asset_manager
+Deloitte,"Manager consolidatie regio Oostkamp, Kortrijk en Gent","Audit, Accounting & Controlling - Deloitte Private",Ghent,finance/accounting/auditor
+Deloitte,Manager Consolidation,Finance & Risk - Industry Agnostic,Zaventem,other/project_management/programme_manager
+Deloitte,Manager Corporate Tax Ghent,Tax - Industry Agnostic,Ghent,finance/accounting/tax_accountant
+Deloitte,Manager Debt & Capital Advisory,Finance & Risk - Industry Agnostic,Zaventem,other/insurance/compliance_regulatory/compliance_manager
+Deloitte,Manager Employment Tax,Tax - Industry Agnostic,Zaventem,other/legal/attorney/employment-and-labor
+Deloitte,Manager ERP Enabled Transformation - Government & Public Services,Finance & Risk - Government & Public Services,Zaventem,other/it_telecoms/erp_specialist
+Deloitte,Manager ERP Transformation - Government & Public Services,Finance & Risk - Government & Public Services,Zaventem,other/it_telecoms/erp_specialist
+Deloitte,Manager European Vat Compliance,Tax - Industry Agnostic,Zaventem,other/insurance/compliance_regulatory/compliance_officer
+Deloitte,Manager Immigration And Social Security,Tax - Industry Agnostic,Zaventem,other/human_services/social_work
+Deloitte,Manager Indirect Tax,Tax - Industry Agnostic,Zaventem,finance/accounting/tax_accountant
+Deloitte,Manager Indirect Tax & E-Invoicing,Tax - Industry Agnostic,Zaventem,finance/accounting/tax_accountant
+Deloitte,Manager Indirect Tax Operations,Tax - Industry Agnostic,Zaventem,finance/accounting/tax_accountant
+Deloitte,Manager International Accounting And Reporting Services,"Audit, Accounting & Controlling - Industry Agnostic",Zaventem,finance/accounting/auditor
+Deloitte,Manager International Tax,Tax - Industry Agnostic,Zaventem,finance/accounting/tax_accountant
+Deloitte,Manager Learning Experience,Technology - Industry Agnostic,Zaventem,other/training/learning_and_development
+Deloitte,Manager M&A Strategy,Finance & Risk - Industry Agnostic,Zaventem,other/insurance/risk_management_specialist
+Deloitte,"Manager M&A Technology, Media & Telecom","Finance & Risk - Technology, Media & Telecoms",Zaventem,other/insurance/risk_management_specialist
+Deloitte,Manager M&A Transaction Services,Finance & Risk - Industry Agnostic,Zaventem,other/insurance/risk_management_specialist
+Deloitte,Manager M&A Transaction Services Consumer,Finance & Risk - Consumer,Zaventem,other/insurance/risk_management_specialist
+Deloitte,Manager Organization Transformation - Human Capital,Technology - Industry Agnostic,Zaventem,other/human_resources/human_resources_manager
+Deloitte,Manager Total Rewards,HR - Industry Agnostic,Zaventem,other/human_resources/human_resources_manager
+Deloitte,Mobility Finance & Controlling Manager,"Audit, Accounting & Controlling - Industry Agnostic",Zaventem,finance/accounting/auditor
+Deloitte,Modeling Consultant,Finance & Risk - Financial Services,Zaventem,finance/financial_services/financial_services_consultant
+Deloitte,MuleSoft Integration,Technology - Industry Agnostic,Zaventem,other/insurance/insurance_underwriter
+Deloitte,Omp Implementation Consultant (Supply Chain Planning),Consulting & Strategy - Industry Agnostic,Zaventem,other/human_resources/implementation-specialist
+Deloitte,Operational Transfer Pricing (Sr) Manager,Tax - Industry Agnostic,Zaventem,finance/accounting/pricing_analyst
+Deloitte,Operational Transfer Pricing Analyst,Tax - Industry Agnostic,Zaventem,finance/accounting/pricing_analyst
+Deloitte,Payroll Consultant - HR & Outsourcing,HR - Industry Agnostic,Zaventem,other/human_resources/human_resources_consultant
+Deloitte,Payroll Officer,HR - Industry Agnostic,Zaventem,other/human_resources/human_resources_officer
+Deloitte,Payroll Specialist,HR - Industry Agnostic,Zaventem,finance/accounting/accounts_payable_assistant
+Deloitte,Payroll Tax and Incentives Specialist,Tax - Industry Agnostic,Zaventem,finance/accounting/tax_accountant
+Deloitte,Pension & Employee Benefits Actuary,Finance & Risk - Industry Agnostic,Zaventem,finance/financial_services/employee_benefits_advisor
+Deloitte,Pensions Specialist,HR - Industry Agnostic,Zaventem,other/human_resources/compensation_and_benefits/benefits_specialist
+Deloitte,Procurement Advisor,Consulting & Strategy - Industry Agnostic,Zaventem,supply_chain/purchasing/procurement/procurement_assistant
+Deloitte,Recruitment Sourcer,HR - Industry Agnostic,Zaventem,other/recruitment/sourcing_lead
+Deloitte,Regulatory Compliance Specialist in Insurance,Legal Services - Industry Agnostic,Zaventem,finance/financial_services/financial_services_compliance_specialist
+Deloitte,SAP Data & Analytics Consultant,Technology - Industry Agnostic,Zaventem,other/it_telecoms/sap_consultant
+Deloitte,SAP Data & Analytics Senior Consultant,Technology - Industry Agnostic,Zaventem,other/it_telecoms/sap_consultant
+Deloitte,SAP Document Management and Archiving Consultant,Technology - Industry Agnostic,Zaventem,other/it_telecoms/sap_consultant
+Deloitte,"SAP Environment, Health & Safety Manager",Technology - Industry Agnostic,Zaventem,engineering/engineering/health_safety_engineer
+Deloitte,SAP EWM Consultant,Technology - Industry Agnostic,Zaventem,other/it_telecoms/sap_consultant
+Deloitte,SAP EWM Senior Consultant,Technology - Industry Agnostic,Zaventem,other/it_telecoms/sap_consultant
+Deloitte,SAP FICO Consultant,Technology - Industry Agnostic,Zaventem,other/it_telecoms/sap_consultant
+Deloitte,SAP FICO Manager,Technology - Industry Agnostic,Zaventem,other/it_telecoms/sap_consultant
+Deloitte,SAP GTS  Lead,Technology - Industry Agnostic,Zaventem,other/it_telecoms/sap_consultant
+Deloitte,SAP GTS Manager,Technology - Industry Agnostic,Zaventem,other/it_telecoms/sap_consultant
+Deloitte,SAP GTS Senior Consultant,Technology - Industry Agnostic,Zaventem,other/it_telecoms/sap_consultant
+Deloitte,SAP HCM Senior Consultant,Technology - Industry Agnostic,Zaventem,other/it_telecoms/sap_consultant
+Deloitte,SAP HRIS Integration Consultant,Technology - Industry Agnostic,Antwerp,other/it_telecoms/sap_consultant
+Deloitte,"SAP PP, QM, PM Senior Consultant",Technology - Industry Agnostic,Zaventem,other/it_telecoms/sap_consultant
+Deloitte,"SAP PP, QM, PM Senior Manager",Technology - Industry Agnostic,Zaventem,other/it_telecoms/sap_consultant
+Deloitte,SAP Procure to Pay Manager,Technology - Industry Agnostic,Zaventem,other/it_telecoms/sap_consultant
+Deloitte,SAP Procure to Pay Senior Consultant,Technology - Industry Agnostic,Zaventem,other/it_telecoms/sap_consultant
+Deloitte,SAP Program Manager,Technology - Industry Agnostic,Zaventem,other/it_telecoms/sap_consultant
+Deloitte,SAP SD Digital Transformation S/4HANA Sales Manager,Technology - Industry Agnostic,Zaventem,other/it_telecoms/sap_consultant
+Deloitte,SAP SD Digital Transformation S/4HANA Senior Consultant,Technology - Industry Agnostic,Zaventem,other/it_telecoms/sap_consultant
+Deloitte,SAP Security & GRC Consultant,Technology - Industry Agnostic,Zaventem,other/it_telecoms/sap_consultant
+Deloitte,SAP Supply Chain Planning Specialist,Technology - Industry Agnostic,Zaventem,other/it_telecoms/sap_consultant
+Deloitte,SAP TM Consultant,Technology - Industry Agnostic,Zaventem,other/it_telecoms/sap_consultant
+Deloitte,SAP Transportation Manager,Technology - Industry Agnostic,Zaventem,other/it_telecoms/sap_consultant
+Deloitte,SAP VIM Manager,Technology - Industry Agnostic,Zaventem,other/it_telecoms/sap_consultant
+Deloitte,SAP VIM Senior Consultant,Technology - Industry Agnostic,Zaventem,other/it_telecoms/sap_consultant
+Deloitte,Scrum Master Expert,Technology - Industry Agnostic,Zaventem,other/it_telecoms/scrum_master
+Deloitte,Senior Accounting & Reporting Advisory Consultant,"Audit, Accounting & Controlling - Financial Services",Zaventem,finance/accounting/auditor
+Deloitte,Senior Auditor,"Audit, Accounting & Controlling - Industry Agnostic",Zaventem,finance/accounting/auditor
+Deloitte,Senior Auditor Financial Institutions,"Audit, Accounting & Controlling - Financial Services",Zaventem,finance/accounting/auditor
+Deloitte,"Senior BTW Consultant Gent, Kortrijk, of Oostkamp",Tax - Deloitte Private,Ghent,finance/accounting/tax_accountant
+Deloitte,Senior Comptable - Région Liège,"Audit, Accounting & Controlling - Deloitte Private",Liège,finance/accounting/auditor
+Deloitte,Senior consultant - Consolidation,Finance & Risk - Industry Agnostic,Zaventem,finance/financial_services/financial_services_consultant
+Deloitte,Senior Consultant - EPM FSI,Finance & Risk - Financial Services,Zaventem,finance/financial_services/financial_services_consultant
+Deloitte,Senior Consultant M&A Strategy,Finance & Risk - Industry Agnostic,Zaventem,finance/financial_services/financial_services_consultant
+Deloitte,Senior Consultant Public Procurement,Consulting & Strategy - Industry Agnostic,Zaventem,other/strategy_consultancy/strategy_consultant
+Deloitte,Senior Consultant SAP SuccessFactors,Technology - Industry Agnostic,Zaventem,other/it_telecoms/sap_consultant
+Deloitte,Senior Consultant Strategy,Consulting & Strategy - Industry Agnostic,Zaventem,other/strategy_consultancy/strategy_consultant
+Deloitte,Senior Consultant Strategy Energy Resources & Industrials,"Consulting & Strategy - Energy, Resources & Industrial",Zaventem,finance/financial_services/financial_services_consultant
+Deloitte,Senior Consultant Workday,Technology - Industry Agnostic,Zaventem,other/human_resources/workday_specialist
+Deloitte,Senior Consultant/Manager ERP Transformation - Government & Public Services,Finance & Risk - Government & Public Services,Zaventem,other/it_telecoms/erp_specialist
+Deloitte,Senior Digital Quality & Test Management,Technology - Industry Agnostic,Zaventem,other/it_telecoms/test_manager
+Deloitte,Senior International Accounting And Reporting Services,"Audit, Accounting & Controlling - Industry Agnostic",Zaventem,finance/accounting/auditor
+Deloitte,Senior International Accounting And Tax Solutions,"Audit, Accounting & Controlling - Industry Agnostic",Zaventem,finance/accounting/auditor
+Deloitte,Senior International Accounting And Tax Solutions - Dutch Gaap,"Audit, Accounting & Controlling - Industry Agnostic",Zaventem,finance/accounting/auditor
+Deloitte,Senior International Accounting And Tax Solutions - French Gaap,"Audit, Accounting & Controlling - Industry Agnostic",Zaventem,finance/accounting/auditor
+Deloitte,Senior International Accounting And Tax Solutions - German Gaap,"Audit, Accounting & Controlling - Industry Agnostic",Zaventem,finance/accounting/auditor
+Deloitte,Senior International Accounting And Tax Solutions - Italian Gaap,"Audit, Accounting & Controlling - Industry Agnostic",Zaventem,finance/accounting/auditor
+Deloitte,Senior Manager - EPM - LSHC/CNSR,Finance & Risk - Life Sciences & Healthcare,Zaventem,other/science/life_scientist
+Deloitte,Senior Manager - Finance Transformation & Operating Model,"Finance & Risk - Technology, Media & Telecoms",Zaventem,other/creative_media_design/performing_arts/model
+Deloitte,Senior Manager – Finance Transformation & Automation,Technology - Consumer,Zaventem,other/manufacturing/automation_operator
+Deloitte,Senior Manager / Director M&A and Finance – Bureau de Boitsfort,Finance & Risk - Industry Agnostic,Charleroi,other/management/director
+Deloitte,Senior Manager in Assurance - Financial Sector,Finance & Risk - Financial Services,Zaventem,finance/financial_services/financial_services_compliance_specialist
+Deloitte,Senior Manager Internal Audit,Consulting & Strategy - Industry Agnostic,Zaventem,finance/accounting/auditor
+Deloitte,"Senior manager M&A regio Leuven, Hasselt en Antwerpen",Finance & Risk - Deloitte Private,Antwerp,other/insurance/credit_risk_specialist
+Deloitte,Senior Manager Strategy - Banking & Insurance,Consulting & Strategy - Financial Services,Zaventem,finance/banking/banking_director
+Deloitte,Senior Manager Workforce Planning & Analytics,HR - Industry Agnostic,Zaventem,other/human_resources/human_resources_manager
+Deloitte,Senior Manager/Director Corporate Finance - M&A Advisory,Finance & Risk - Industry Agnostic,Zaventem,other/management/director
+Deloitte,Senior Manager/Director M&A Transaction Services B&I,Finance & Risk - Financial Services,Zaventem,other/management/director
+Deloitte,Senior Microsoft Dynamics CRM Consultant,Technology - Industry Agnostic,Zaventem,other/it_telecoms/crm_specialist
+Deloitte,Senior SAP Service Delivery Manager,Technology - Industry Agnostic,Zaventem,other/it_telecoms/sap_consultant
+Deloitte,"Senior Tax Consultant Gent, Kortrijk, of Oostkamp",Tax - Deloitte Private,Kortrijk,finance/accounting/tax_accountant
+Deloitte,"Senior Tax Consultant PME - Région Charleroi, Liège et Watermael-Boitsfort",Tax - Deloitte Private,Charleroi,finance/accounting/tax_accountant
+Deloitte,ServiceNow (Senior) Manager,Technology - Industry Agnostic,Zaventem,other/it_telecoms/servicenow_technical_consultant
+Deloitte,ServiceNow Senior Consultant,Technology - Industry Agnostic,Zaventem,other/it_telecoms/servicenow_technical_consultant
+Deloitte,Social Law Consultant with a focus on Social Sustainability,Legal Services - Industry Agnostic,Zaventem,other/legal/general_legal_counsel
+Deloitte,Sr Manager AI Strategy - Public Sector,Technology - Government & Public Services,Zaventem,other/legal/government_legal_counsel
+Deloitte,Strategy - Starting in September 2025, - ,Zaventem,other/strategy_consultancy/strategy_consultant
+Deloitte,Strategy Consultant,Consulting & Strategy - Industry Agnostic,Zaventem,other/strategy_consultancy/strategy_consultant
+Deloitte,Strategy consultant for SME’s region Antwerp and Leuven,Consulting & Strategy - Deloitte Private,Antwerp,other/strategy_consultancy/strategy_consultant
+Deloitte,Strategy consultant for SME’s region East and West Flanders,Consulting & Strategy - Deloitte Private,Ghent,other/strategy_consultancy/strategy_consultant
+Deloitte,Strategy Pricing Manager,"Consulting & Strategy - Energy, Resources & Industrial",Zaventem,other/energy/energy_manager
+Deloitte,Supply Chain Operate Consultant,Consulting & Strategy - Life Sciences & Healthcare,Zaventem,other/science/life_scientist
+Deloitte,Sustainability - Starting in September 2025, - ,Zaventem,other/management/managing_director
+Deloitte,Sustainability Consultant,Consulting & Strategy - Industry Agnostic,Zaventem,other/strategy_consultancy/strategy_consultant
+Deloitte,Sustainability Manager,Consulting & Strategy - Industry Agnostic,Zaventem,other/strategy_consultancy/strategy_consultant
+Deloitte,Sustainability Specialist,Consulting & Strategy - Industry Agnostic,Zaventem,other/environmental/environmental_advisor
+Deloitte,Tax - Starting in September 2025, - ,Zaventem,finance/accounting/tax_accountant
+Deloitte,"Tax Director Antwerpen, Hasselt of Leuven",Tax - Deloitte Private,Hasselt,finance/accounting/tax_accountant
+Deloitte,Tax M&A Manager,Tax - Industry Agnostic,Zaventem,finance/accounting/tax_accountant
+Deloitte,"Tax Manager Antwerpen, Hasselt of Leuven",Tax - Deloitte Private,Hasselt,finance/accounting/tax_accountant
+Deloitte,Tax Manager Financial Services,Tax - Industry Agnostic,Zaventem,finance/accounting/tax_accountant
+Deloitte,Tax Manager PME - Région Charleroi,Tax - Deloitte Private,Charleroi,other/project_management/programme_manager
+Deloitte,Tax Reporting Consultant,Tax - Industry Agnostic,Zaventem,finance/accounting/tax_accountant
+Deloitte,Test Automation Lead,Technology - Industry Agnostic,Zaventem,other/manufacturing/automation_operator
+Deloitte,Third Party Risk Advisor,Technology - Industry Agnostic,Zaventem,other/insurance/credit_risk_specialist
+Deloitte,Transfer Pricing Consultant,Tax - Industry Agnostic,Zaventem,finance/accounting/pricing_analyst
+Deloitte,"TVA Consultant - Région Charleroi, Liège et Watermael-Boitsfort",Tax - Deloitte Private,Watermael-Boitsfort,finance/financial_services/financial_services_consultant
+Deloitte,Warehousing & Automation (senior) Consultant,Consulting & Strategy - Industry Agnostic,Zaventem,other/manufacturing/automation_operator
+Ernst & Young,Digital Transformation Consultant,Consulting - Financial Services,Diegem,finance/financial_services/financial_services_consultant
+Ernst & Young,Independence Consultant,Core Business Services - Industries,Diegem,other/strategy_consultancy/business_advisor
+Ernst & Young,Junior Technology Consultant – Microsoft BizApps Consultant,Consulting - Industries,,engineering/it_telecoms/developer/microsoft_developer
+Ernst & Young,Internship AI and Data,Consulting - Financial Services,Diegem,finance/financial_services/financial_services_consultant
+Ernst & Young,Internship Audit,Assurance - Industries,Antwerp,finance/accounting/auditor
+Ernst & Young,Finance & Accounting Consultant – China Desk – Mandarin Speaking,"Accounting, Compliance & Reporting - Industries",Antwerp,finance/financial_services/financial_services_consultant
+Ernst & Young,Internship Indirect Tax Consultant,Tax & Legal - Industries,Antwerp,finance/accounting/tax_accountant
+Ernst & Young,Internship Corporate Tax Consultant,Tax & Legal - Industries,Ghent,finance/accounting/tax_accountant
+Ernst & Young,Internship Cybersecurity,Consulting - Financial Services,Diegem,finance/financial_services/financial_services_consultant
+Ernst & Young,Internship Enterprise Risk Management Consulting,Consulting - Financial Services,Diegem,other/insurance/risk_management_specialist
+Ernst & Young,Internship Audit – February 2026,Assurance - Industries,Liège,finance/accounting/auditor
+Ernst & Young,Internship Audit – January 2026,Assurance - Industries,Ghent,finance/accounting/auditor
+Ernst & Young,Internship 2026 – Accounting & Business Consultant,"Accounting, Compliance & Reporting - Industries",Hasselt,finance/financial_services/financial_services_consultant
+Ernst & Young,Senior Consultant Economic Advisory – Transport,EY-Parthenon - Industries,Diegem,finance/financial_services/financial_services_consultant
+Ernst & Young,Senior Consultant Financial Crime,Consulting - Financial Services,Diegem,finance/financial_services/financial_services_consultant
+Ernst & Young,Senior Consultant Quantitative & Financial Risk,Consulting - Financial Services,Diegem,finance/financial_services/financial_services_consultant
+Ernst & Young,Manager Non-Financial Risk,Consulting - Financial Services,Diegem,finance/financial_services/financial_services_consultant
+Ernst & Young,Manager Technology Risk,Consulting - Financial Services,Diegem,finance/financial_services/financial_services_consultant
+Ernst & Young,Senior Manager – Risk Management Insurance,Consulting - Financial Services,Diegem,other/insurance/risk_management_specialist
+Ernst & Young,Manager Financial Crime,Consulting - Financial Services,Diegem,finance/financial_services/financial_services_consultant
+Ernst & Young,Manager Finance & Accounting,"Accounting, Compliance & Reporting - Industries",Diegem,other/insurance/compliance_regulatory/compliance_officer
+Ernst & Young,Business Development,Core Business Services - Industries,Diegem,other/strategy_consultancy/business_advisor
+Ernst & Young,Administrative Assistant – Central Audit Services,Core Business Services - Industries,Diegem,other/administration/administrator
+Ernst & Young,Junior Actuarial Consultant,Consulting - Financial Services,Diegem,other/insurance/insurance_actuary
+Ernst & Young,Consultant – Digital Risk,Consulting - Industries,Diegem,other/strategy_consultancy/strategy_consultant
+Ernst & Young,Manager – EU Policy,Consulting - Industries,Diegem,other/legal/government_legal_counsel
+Ernst & Young,Junior Designer Consultant,Consulting - Industries,"Antwerp, Diegem, Ghent",other/construction/senior_designer
+Ernst & Young,Junior Consultant Financial Accounting Advisory Services,Assurance - Financial Services,Diegem,finance/financial_services/financial_services_consultant
+Ernst & Young,Finance & Accounting Consultant,"Accounting, Compliance & Reporting - Industries",Tournai,finance/financial_services/financial_services_consultant
+Ernst & Young,Senior Consultant Energy and Climate,EY-Parthenon - Industries,Diegem,finance/financial_services/financial_services_consultant
+Ernst & Young,Senior Manager – Finance Transformation,Consulting - Industries,Diegem,finance/financial_services/financial_services_consultant
+Ernst & Young,Senior Auditor,Assurance - Industries,Liège,finance/accounting/auditor
+Ernst & Young,(Senior) Manager Audit,Assurance - Industries,Diegem,finance/accounting/auditor
+Ernst & Young,Consultant People Consulting/AI in HR,Consulting - Financial Services,Diegem,finance/financial_services/financial_services_consultant
+Ernst & Young,Consultant People Consulting & Change,Consulting - Financial Services,Diegem,finance/financial_services/financial_services_consultant
+Ernst & Young,Consultant Innovatieprojecten,Tax & Legal - Industries,"Antwerp, Diegem, Ghent, Hasselt",finance/accounting/tax_accountant
+Ernst & Young,Manager – People Consulting,Consulting - Industries,Diegem,other/Marketing/marketing_analyst
+Ernst & Young,Senior Developer lead in .NET,"Accounting, Compliance & Reporting - Industries",Antwerp,engineering/it_telecoms/developer/senior_developer
+Ernst & Young,Consultant Subsidieprojecten,Tax & Legal - Industries,"Antwerp, Diegem, Ghent, Hasselt",finance/accounting/tax_accountant
+Ernst & Young,Junior Business Tax Compliance Consultant,Tax & Legal - Industries,"Diegem, Ghent",finance/accounting/tax_accountant
+Ernst & Young,Strategic Real Estate Expert of the future,EY-Parthenon - Industries,Diegem,other/real_estate/realtor
+Ernst & Young,Junior Legal Consultant,Tax & Legal - Financial Services,Diegem,finance/financial_services/financial_services_consultant
+Ernst & Young,Junior Technology Consultant – SAP/IT Transformation,Consulting - Industries,"Antwerp, Diegem, Ghent",other/it_telecoms/it_telecoms_consultant
+Ernst & Young,Studentjob Personal Income Tax,Tax & Legal - Industries,"Antwerp, Diegem, Ghent, Hasselt",other/education/student
+Ernst & Young,Junior EU Consultant – Market Intelligence and Space Technology,Consulting - Industries,Diegem,other/science/regulatory_affairs/regulatory_affairs_officer
+Ernst & Young,Junior Cybersecurity Consultant,Consulting - Industries,"Antwerp, Diegem, Ghent",other/human_resources/workday_specialist
+Ernst & Young,Junior Enterprise Risk Consultant,Consulting - Industries,"Antwerp, Diegem, Ghent",other/insurance/credit_risk_specialist
+Ernst & Young,Junior Business Consultant – Transformation Delivery (Public Sector),Consulting - Industries,"Antwerp, Diegem, Ghent",other/strategy_consultancy/business_advisor
+Ernst & Young,Junior Tax Consultant,Tax & Legal - Financial Services,Diegem,finance/accounting/tax_accountant
+Ernst & Young,Junior Personal Income Tax Compliance Consultant,Tax & Legal - Industries,Hasselt,finance/financial_services/financial_services_compliance_specialist
+Ernst & Young,Junior Personal Income Tax Advisory Consultant,Tax & Legal - Industries,Hasselt,finance/accounting/tax_accountant
+Ernst & Young,Junior Employment Consultant,Tax & Legal - Industries,Antwerp,other/legal/attorney/employment-and-labor
+Ernst & Young,Junior Employee Reward Consultant,Tax & Legal - Industries,Diegem,finance/financial_services/employee_benefits_advisor
+Ernst & Young,Junior Employer Reward Consultant,Tax & Legal - Industries,Diegem,other/customer_services/client_advisor
+Ernst & Young,Junior Transfer Pricing Consultant,Tax & Legal - Industries,Diegem,finance/accounting/pricing_analyst
+Ernst & Young,Junior Global Trade Consultant,Tax & Legal - Industries,Diegem,finance/financial_services/financial_services_consultant
+Ernst & Young,Junior Corporate Tax Consultant,Tax & Legal - Industries,Ghent,finance/accounting/tax_accountant
+Ernst & Young,Junior Indirect Tax Technology Consultant,Tax & Legal - Industries,Diegem,finance/accounting/tax_accountant
+Ernst & Young,Junior Strategy and Transactions Consultant,EY-Parthenon - Financial Services,Diegem,finance/financial_services/financial_services_consultant
+Ernst & Young,Junior Finance Transformation Consultant,Consulting - Financial Services,Diegem,finance/financial_services/financial_services_consultant
+Ernst & Young,Junior AI and Data Consultant,Consulting - Financial Services,Diegem,finance/financial_services/financial_services_consultant
+Ernst & Young,Junior Business Transformation Consultant,Consulting - Financial Services,Diegem,finance/financial_services/financial_services_consultant
+Ernst & Young,Junior Insurance Transformation Consultant,Consulting - Financial Services,Diegem,finance/financial_services/financial_services_consultant
+Ernst & Young,Junior Enterprise Risk Management Consultant,Consulting - Financial Services,Diegem,other/insurance/risk_management_specialist
+Ernst & Young,Junior Technology Consultant,Consulting - Financial Services,Diegem,finance/financial_services/financial_services_consultant
+Ernst & Young,Junior Software Engineer,Consulting - Financial Services,Diegem,engineering/it_telecoms/software_engineer
+Ernst & Young,Senior Consultant – People Consulting,Consulting - Industries,Diegem,other/strategy_consultancy/strategy_consultant
+Ernst & Young,Junior Auditor,Assurance - Financial Services,Diegem,finance/accounting/auditor
+Ernst & Young,Junior Technology Risk Consultant,Assurance - Industries,Diegem,other/insurance/credit_risk_specialist
+Ernst & Young,TaxOnSite Consultant,Tax & Legal - Industries,Diegem,finance/accounting/tax_assistant
+Ernst & Young,(Senior) Finance & Accounting Consultant,"Accounting, Compliance & Reporting - Industries",Hasselt,finance/financial_services/financial_services_consultant
+Ernst & Young,(Senior) Manager Legal & Regulatory,Tax & Legal - Financial Services,Diegem,finance/financial_services/financial_services_representative
+Ernst & Young,Consultant Employee Reward,Tax & Legal - Industries,Diegem,finance/financial_services/employee_benefits_advisor
+Ernst & Young,Internship Actuarial Consulting,Consulting - Financial Services,Diegem,other/insurance/insurance_actuary
+Ernst & Young,Senior Global Mobility Tax Consultant,Tax & Legal - Industries,Diegem,finance/accounting/tax_accountant
+Ernst & Young,Manager – Enterprise Risk – Public Sector,Consulting - Industries,Diegem,other/legal/government_legal_counsel
+Ernst & Young,Senior Consultant – Procurement – Supply Chain and Operations,Consulting - Industries,Diegem,supply_chain/purchasing/procurement/procurement_analyst
+Ernst & Young,Director – Finance Transformation,Consulting - Industries,Diegem,other/management/director
+Ernst & Young,Director of Regulatory Compliance – Enterprise Risk,Consulting - Industries,Diegem,other/management/director
+Ernst & Young,Senior Consultant – Planning – Supply Chain and Operations,Consulting - Industries,Diegem,other/strategy_consultancy/strategy_consultant
+Ernst & Young,(Senior) Manager Sustainable Finance (ESG),Consulting - Financial Services,Diegem,finance/financial_services/financial_services_consultant
+Ernst & Young,Lead Data Engineer,Consulting - Financial Services,Diegem,other/administration/acquisition_analyst
+Ernst & Young,Senior AI Engineer,Consulting - Financial Services,Diegem,finance/financial_services/financial_services_consultant
+Ernst & Young,Data Governance Manager,Consulting - Financial Services,Diegem,finance/financial_services/financial_services_consultant
+Ernst & Young,SAP Technical Lead / Solutions Architect,Consulting - Financial Services,Diegem,other/it_telecoms/technical_architect
+Ernst & Young,Technical Stream Lead – Core Banking Transformation,Consulting - Financial Services,Diegem,finance/banking/banking_analyst
+Ernst & Young,Functional Stream Lead – Core Banking Transformation,Consulting - Financial Services,Diegem,finance/banking/banking_analyst
+Ernst & Young,Cyber Security Awareness Consultant,Consulting - Financial Services,Diegem,finance/financial_services/financial_services_consultant
+Ernst & Young,Senior Cyber Governance Risk and Compliance Consultant,Consulting - Financial Services,Diegem,finance/financial_services/financial_services_compliance_specialist
+Ernst & Young,Senior Consultant – Digital Design,Consulting - Industries,Diegem,other/creative_media_design/digital_designer
+Ernst & Young,Manager Indirect Tax Technology EMEIA,Tax & Legal - Industries,"Diegem, Ghent",finance/accounting/tax_accountant
+Ernst & Young,FinanceOnSite Consultant,"Accounting, Compliance & Reporting - Industries",Diegem,finance/financial_services/financial_services_consultant
+Ernst & Young,Internship Indirect Tax Technology Consultant,Tax & Legal - Industries,"Diegem, Ghent",finance/accounting/tax_accountant
+Ernst & Young,Senior Consultant Global Compliance and Reporting EMEIA,Tax & Legal - Industries,Diegem,other/insurance/compliance_regulatory/compliance_manager
+Ernst & Young,Manager Global Compliance and Reporting EMEIA,Tax & Legal - Industries,Diegem,other/insurance/compliance_regulatory/compliance_officer
+Ernst & Young,Senior Consultant – Cyber Defensive Security,Consulting - Industries,Diegem,other/security_safety/security/security_consultant
+Ernst & Young,Internship Transfer Pricing Consultant,Tax & Legal - Industries,Diegem,finance/accounting/pricing_analyst
+Ernst & Young,Internship Business Tax Compliance Consultant,Tax & Legal - Industries,Diegem,finance/accounting/tax_accountant
+Ernst & Young,Internal Audit Manager,Consulting - Financial Services,Diegem,finance/accounting/auditor
+Ernst & Young,Controleur van EU-Fondsen,Assurance - Industries,Diegem,supply_chain/transport_logistics/driving/van_driver
+Ernst & Young,Senior Consultant – Microsoft BizApps,Consulting - Industries,Diegem,engineering/it_telecoms/developer/microsoft_developer
+Ernst & Young,Consultant Employer Reward,Tax & Legal - Industries,"Antwerp, Diegem, Hasselt",finance/financial_services/financial_services_consultant
+Ernst & Young,Senior Consultant Climate Change and Sustainability Services,Assurance - Industries,Diegem,other/strategy_consultancy/strategy_consultant
+Ernst & Young,Manager or Senior Manager – Cybersecurity Strategy and Governance,Consulting - Industries,Diegem,other/strategy_consultancy/strategy_consultant
+Ernst & Young,Senior Cyber Security Consultant – Red Teaming,Consulting - Financial Services,Diegem,other/security_safety/security/security_consultant
+Ernst & Young,Data Architect,Consulting - Financial Services,Diegem,other/construction/architecture/architect
+Ernst & Young,Data Engineer,Consulting - Financial Services,Diegem,engineering/it_telecoms/software_engineer
+Ernst & Young,Senior Consultant CFO Consulting – Finance Expert,Consulting - Financial Services,Diegem,finance/financial_services/financial_services_consultant
+Ernst & Young,Functional Business Analyst,Consulting - Financial Services,Diegem,other/strategy_consultancy/business_analyst
+Ernst & Young,Identity & Access Management Consultant,Consulting - Financial Services,Diegem,other/strategy_consultancy/management_consultant
+Ernst & Young,Lending Transformation Consultant,Consulting - Financial Services,Diegem,finance/financial_services/financial_services_consultant
+Ernst & Young,Banking Transformation Consultant,Consulting - Financial Services,Diegem,finance/financial_services/financial_services_consultant
+Ernst & Young,Manager – Digital Finance – Tagetik,Consulting - Industries,Diegem,finance/financial_services/financial_services_consultant
+Ernst & Young,Senior Manager – Enterprise Risk,Consulting - Industries,Diegem,other/Marketing/marketing_analyst
+Ernst & Young,Senior Consultant CFO Consulting – Finance Transformation,Consulting - Financial Services,Diegem,finance/financial_services/financial_services_consultant
+Ernst & Young,Senior Consultant – Government and Public Sector,Consulting - Industries,Diegem,other/legal/government_legal_counsel
+Ernst & Young,(Senior) Manager VAT,Tax & Legal - Financial Services,Diegem,finance/accounting/financial_accountant
+Ernst & Young,Internship Employment Consultant,Tax & Legal - Industries,"Antwerp, Diegem",other/legal/attorney/employment-and-labor
+Ernst & Young,Senior Consultant Global Trade,Tax & Legal - Industries,Diegem,finance/financial_services/financial_services_consultant
+Ernst & Young,Internship Personal Income Tax Consultant,Tax & Legal - Industries,Hasselt,finance/accounting/tax_accountant
+Ernst & Young,Junior Accounting Assistant Central Team,"Accounting, Compliance & Reporting - Industries",Diegem,finance/accounting/accounts_assistant
+Ernst & Young,Junior Accounting & Business Consultant,"Accounting, Compliance & Reporting - Industries",Liège,finance/accounting/accounts_assistant
+Ernst & Young,Junior Indirect Tax Consultant,Tax & Legal - Industries,Antwerp,finance/accounting/tax_accountant
+Ernst & Young,Experienced Pension Actuary,Consulting - Financial Services,Diegem,other/insurance/insurance_actuary
+Ernst & Young,Senior Consultant – Risk Transformation,Consulting - Financial Services,Diegem,finance/financial_services/financial_services_consultant
+Ernst & Young,Experienced Life Actuary,Consulting - Financial Services,Diegem,other/insurance/insurance_actuary
+Ernst & Young,Experienced Non-Life Actuary,Consulting - Financial Services,Diegem,other/insurance/insurance_actuary
+Ernst & Young,Senior Consultant EY-Parthenon,EY-Parthenon - Industries,Diegem,other/strategy_consultancy/strategy_consultant
+Ernst & Young,Senior Consultant Corporate Tax Compliance,Tax & Legal - Industries,"Antwerp, Diegem",finance/accounting/tax_accountant
+Ernst & Young,Strategy and Transformation Manager,EY-Parthenon - Industries,Diegem,other/training/training_manager
+Ernst & Young,Senior Manager Sustainability,Assurance - Industries,Diegem,engineering/engineering/technical_manager
+Ernst & Young,Consultant Payroll,Tax & Legal - Industries,"Antwerp, Diegem",finance/accounting/tax_accountant
+Ernst & Young,Manager Employer Reward,Tax & Legal - Industries,"Antwerp, Diegem",other/legal/attorney/employment-and-labor
+Ernst & Young,Experienced (Senior) Consultant  – Transfer pricing,Tax & Legal - Financial Services,Diegem,finance/financial_services/financial_services_consultant
+Ernst & Young,Life Insurance Transformation Consultant,Consulting - Financial Services,Diegem,finance/financial_services/financial_services_consultant
+Ernst & Young,EY Parthenon Strategy Consultant,EY-Parthenon - Financial Services,Diegem,other/strategy_consultancy/strategy_consultant
+Ernst & Young,Senior Consultant Personal Income Tax,Tax & Legal - Industries,"Antwerp, Diegem, Ghent, Hasselt",finance/accounting/tax_accountant
+Ernst & Young,Senior Consultant SAP GTS Global Trade,Tax & Legal - Industries,Diegem,finance/financial_services/financial_services_consultant
+Ernst & Young,Strategy & Transaction Consultant,EY-Parthenon - Financial Services,Diegem,finance/financial_services/financial_services_consultant
+Ernst & Young,Legal & Regulatory Consultant,Tax & Legal - Financial Services,Diegem,finance/financial_services/financial_services_consultant
+Ernst & Young,Tax Professionals – QI and AEOI expert,Tax & Legal - Financial Services,Diegem,finance/accounting/tax_accountant
+Ernst & Young,Manager Transfer Pricing,Tax & Legal - Industries,"Antwerp, Diegem, Ghent",finance/accounting/pricing_analyst
+Ernst & Young,Manager Corporate Tax Compliance,Tax & Legal - Industries,"Antwerp, Diegem",other/insurance/compliance_regulatory/compliance_officer
+Ernst & Young,Senior Consultant International Tax,Tax & Legal - Industries,"Antwerp, Diegem",finance/accounting/tax_accountant
+Ernst & Young,Senior Manager International Tax Services,Tax & Legal - Industries,Diegem,finance/accounting/tax_accountant
+Ernst & Young,Manager Transaction Tax,Tax & Legal - Industries,Diegem,other/manufacturing/production_manager
+Ernst & Young,Senior Consultant Transfer Pricing,Tax & Legal - Industries,"Antwerp, Diegem, Ghent",finance/accounting/pricing_analyst
+Ernst & Young,Senior Consultant HR Legal,Tax & Legal - Industries,Diegem,other/human_resources/human_resources_consultant
+Ernst & Young,Manager Financial Due Diligence,EY-Parthenon - Industries,Diegem,finance/accounting/financial_accountant
+KPMG,Accounting (Assistant) Manager-Tournai,KPMG Accountants,Tournai Office,finance/accounting/accounts_assistant
+KPMG,Accounting Supervisor -Tournai,KPMG Accountants,Tournai Office,finance/accounting/accounting_supervisor
+KPMG,Internship Tax Consulting (2024-2025),KPMG Tax Legal,All Office Locations,finance/accounting/tax_accountant
+KPMG,Senior Business Analist (Manager) – Digitale Transformatie (NL),KPMG,Brussels Office - Zaventem HQ,other/management/avp
+KPMG,Senior Project Manager – Digitale Transformaties in de Publieke Sector (NL),Advisory - Technology,Brussels Office - Zaventem HQ,other/management/managing_director
+KPMG,Agile Project Manager – Publieke Sector (NL),Advisory - Technology,Brussels Office - Zaventem HQ,other/legal/government_legal_counsel
+KPMG,ServiceNow HRSD (Senior) Consultant,Advisory - Technology,Brussels Office - Zaventem HQ,other/it_telecoms/servicenow_technical_consultant
+KPMG,ServiceNow Solution Architect (KPMG Technology),Advisory - Technology,Brussels Office - Zaventem HQ,other/it_telecoms/technical_architect
+KPMG,Senior Data Consultant,Advisory - Technology,Brussels Office - Zaventem HQ,other/it_telecoms/analysis/data-specialist
+KPMG,Senior Project Manager IT,KPMG Belgium,Brussels Office - Zaventem HQ,other/it_telecoms/it_manager
+KPMG,"(Senior) Manager – Enterprise Architecture, IT Strategy and Operating model",Advisory - Technology,Brussels Office - Zaventem HQ,other/creative_media_design/performing_arts/model
+KPMG,Senior Project Consultant– EU Institutions,Advisory - Business Consulting,Brussels Office - Zaventem HQ,sales/sales/business_consultant
+PwC,SAP Solution Architect Consultant - Senior Manager,Advisory,Brussels,other/it_telecoms/technical_architect
+PwC,Senior Lead Full-Stack Developer,Internal Firm Services,Brussels,engineering/it_telecoms/developer/web_developer/full_stack
+PwC,Consultant Sustainable Sourcing Strategy & Transformation,Advisory,Brussels,other/strategy_consultancy/strategy_consultant
+PwC,Microsoft Dynamics 365 Manager,Advisory,Brussels,engineering/it_telecoms/developer/microsoft_developer
+PwC,Go To Market Manager for projects in Pharma & Life Sciences,Advisory,Brussels,other/science/life_scientist
+PwC,Go to Market Senior Manager for projects in Pharma & Life Sciences,Advisory,Brussels,other/science/life_scientist
+PwC,Data Strategy and Governance  - Manager,Advisory,Brussels,other/strategy_consultancy/strategy_consultant
+PwC,Manager Compliance Consultant,Assurance,Brussels,other/insurance/compliance_regulatory/compliance_officer
+PwC,Anaplan Solution Architect,Advisory,Brussels,other/it_telecoms/technical_architect
+PwC,Manager Treasury Consulting FIS Quantum,Advisory,Brussels,other/aerospace/fis-ambassador
+PwC,Manager Strategy & Operations Supply Chain Pharma & Life Sciences,Advisory,Brussels,other/science/life_scientist
+PwC,Senior Consultant Strategy & Operations in Supply Chain Planning,Advisory,Brussels,other/strategy_consultancy/strategy_consultant
+PwC,Senior Manager Strategy & Operations Supply Chain Pharma & Life Sciences,Advisory,Brussels,other/science/life_scientist
+PwC,Manager Compliance and Forensics,Advisory,Brussels,other/science/forensic_scientist
+PwC,Management Assistant,Tax,Brussels,finance/accounting/tax_accountant
+PwC,Senior Manager Strategy & Operations Supply chain Planning,Advisory,Brussels,other/strategy_consultancy/strategy_consultant
+PwC,Experienced Manager Treasury Consulting - FIS Quantum,Advisory,Brussels,other/aerospace/fis-ambassador
+PwC,Consultant in Treasury & Risk,Advisory,Brussels,other/strategy_consultancy/strategy_consultant
+PwC,Experienced Manager Compliance & Forensics,Advisory,Brussels,other/science/forensic_scientist
+PwC,Consultant Finance &  Performance - Senior Associate,Advisory,Brussels,other/management/senior-associate
+PwC,Manager Finance & Performance,Advisory,Brussels,finance/accounting/finance_manager
+PwC,Reward Senior Associate,Tax,Brussels,other/management/senior-associate
+PwC,Personal Income Tax Senior Associate,Tax,Brussels,other/management/senior-associate
+PwC,Accounting Advisory & Finance Transformation Manager/ (Senior) Consultant,Assurance,Brussels,finance/financial_services/financial_services_consultant
+PwC,Valuation & Business Modelling Professional,Advisory,Brussels,other/creative_media_design/performing_arts/model
+PwC,Financial Advisory Infrastructure Professional,Advisory,Brussels,finance/financial_services/financial_advisor
+PwC,SME Accountant and Tax Advisor,Tax,Ghent,finance/accounting/tax_accountant
+PwC,Consultant in Risk Management Infrastructure and Construction,Advisory,Brussels,other/insurance/risk_management_specialist
+PwC,Digital R&D Operations Manager,Advisory,Brussels,other/construction/construction_operations_manager
+PwC,SAP Successfactor Professional,Advisory,Brussels,other/it_telecoms/sap_consultant
+PwC,Experienced Non-Life Actuary (Senior) Manager,Assurance,Brussels,finance/accounting/actuary
+PwC,Senior Financial Services Consultant - Banking,Assurance,Brussels,finance/financial_services/financial_services_consultant
+PwC,Insurance Transformation Manager,Assurance,Brussels,other/insurance/risk_management_specialist
+PwC,IFRS & Capital Markets Manager Consultant,Assurance,Brussels,engineering/engineering/technical_manager
+PwC,IFRS & Capital Markets Senior Associate Consultant,Assurance,Brussels,other/management/senior-associate
+PwC,IFRS & ESG Reporting Manager / Senior Consultant,Assurance,Brussels,other/strategy_consultancy/strategy_consultant
+PwC,Salesforce Consultant - Senior Associate,Advisory,Brussels,other/management/senior-associate
+PwC,Customs and Trade Tax Expert,Tax,Brussels,finance/accounting/tax_accountant
+PwC,VAT Advisory Consultant,Tax,Brussels,finance/accounting/tax_accountant
+PwC,M&A Tax (Senior) Manager,Tax,Brussels,finance/accounting/tax_accountant
+PwC,Accounting Project Expert,Tax,Brussels,finance/accounting/project_accountant
+PwC,Consolidation Senior Accountant,Tax,Brussels,finance/accounting/accountant
+PwC,Indirect Tax Senior Manager,Tax,Ghent,finance/accounting/tax_accountant
+PwC,Transfer Pricing Senior Expert,Tax,Brussels,finance/accounting/pricing_analyst
+PwC,Senior Financial Controller,Tax,Brussels,finance/accounting/financial_controller
+PwC,M&A Corporate finance Professional,Advisory,Brussels,finance/accounting/corporate_finance_accountant
+PwC,Transaction Services Expert,Advisory,Brussels,finance/banking/business_service_representative
+PwC,Temporary Associate Tax Policy,Internal Firm Services,Brussels,finance/accounting/tax_accountant
+PwC,Anaplan Model Builder,Advisory,Brussels,other/creative_media_design/performing_arts/model
+PwC,Transaction Services Professional,Advisory,Brussels,other/healthcare/care/direct_support_professional
+PwC,Senior Manager Strategy & Operation Procurement,Advisory,Brussels,other/buying_purchashing/buying_purchashing
+PwC,Cloud and Data Manager Consultant,Advisory,Brussels,other/healthcare/clinical/clinical_leader
+PwC,Credit Risk Modelling Senior Consultant,Assurance,Brussels,other/insurance/credit_risk_specialist
+PwC,Corporate Tax Senior Expert,Tax,Brussels,finance/accounting/tax_accountant
+PwC,Business Development Expert,Tax,Brussels,other/strategy_consultancy/business_advisor
+PwC,EU Consultant - Manager,Advisory,Brussels,other/strategy_consultancy/strategy_consultant
+PwC,EU Consultant - Senior Associate,Advisory,Brussels,other/management/senior-associate
+PwC,Senior M&A Consultant Integration & Separation,Advisory,Brussels,other/strategy_consultancy/strategy_consultant
+PwC,Corporate Tax Manager,Tax,Brussels,finance/accounting/tax_accountant
+PwC,Startup and Corporate Venturing Senior Associate,Tax,Brussels,other/management/senior-associate
+PwC,Logistics and Distribution Specialist,Advisory,Brussels,supply_chain/transport_logistics/transport_logistics_team_leader
+PwC,Consultant - Health Industries - Go To Market (GtM),Advisory,Brussels,other/healthcare/health_medicine_consultant
+PwC,Director Leadership Advisory Services,Advisory,Brussels,other/management/director
+PwC,Manager Treasury Consulting,Advisory,Brussels,finance/banking/treasury/treasury_analyst
+PwC,Transfer Pricing (Senior) Manager,Tax,Brussels,finance/accounting/pricing_analyst
+PwC,Senior Consultant Strategy & Operations in Supply Chain Pharma & Life Sciences,Advisory,Brussels,other/science/life_scientist
+PwC,Experienced Auditor,Assurance,Brussels,finance/accounting/auditor
+PwC,HR Consultant,Advisory,Brussels,other/human_resources/human_resources_consultant
+PwC,Global Tax Senior Manager,Tax,Brussels,finance/accounting/tax_accountant
