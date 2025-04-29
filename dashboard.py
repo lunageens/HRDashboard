@@ -3,7 +3,10 @@ import pandas as pd
 import streamlit as st
 import plotly.express as px
 
-@st.cache
+def format_field_name(field):
+  return field.replace("_", " ").title()
+
+@st.cache_data
 def load_data():
   # Load your data
   df = pd.read_csv("jobs_final.csv")
